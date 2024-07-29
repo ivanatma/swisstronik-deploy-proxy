@@ -93,11 +93,11 @@ npm run upgrade
 
 by :
 
-github : [rikindrn](https://github.com/rikindrn)
+github : [ivanatma](https://github.com/ivanatma)
 
-twitter : @rikindrn
+twitter : @ivanatma
 
-telegram : @rikindrn
+telegram : @ivanatma
 
 Ignore this!!!
 
